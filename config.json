@@ -1,0 +1,7 @@
+{ "sending_jid": "user1@xmpp1.localhost.example",
+  "sending_password":"password",
+  "receiving_jid": "user3@xmpp2.localhost.example",
+  "receiving_password": "password",
+  "xmpp_server_1": "xmpp1.localhost.example",
+  "xmpp_server_2": "xmpp2.localhost.example"
+}
